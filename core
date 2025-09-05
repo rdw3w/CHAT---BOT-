@@ -1,3 +1,0 @@
-git rm core
-git commit -m "Delete core file"
-git push
